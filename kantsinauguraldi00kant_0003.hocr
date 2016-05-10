@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./kantsinauguraldi00kant/kantsinauguraldi00kant_0003.png"; bbox 0 0 1898 3385; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1504 1666 1717">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1504 1666 1717">
+     <span class='ocr_line' id='line_1_1' title="bbox 876 1504 925 1551; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 876 1504 925 1551; x_wconf 77' lang='lat'>2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1608 1666 1717; baseline -0.002 -24"><span class='ocrx_word' id='word_1_2' title='bbox 0 1608 15 1717; x_wconf 24' lang='grc' dir='ltr'>[Α</span> <span class='ocrx_word' id='word_1_3' title='bbox 143 1640 370 1691; x_wconf 77' lang='grc' dir='ltr'><strong>ΚΑΝΤ’8</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 410 1640 800 1692; x_wconf 81' lang='lat' dir='ltr'>INAUGURAL</span> <span class='ocrx_word' id='word_1_5' title='bbox 839 1639 1317 1690; x_wconf 79' lang='lat' dir='ltr'>DISSERTATION</span> <span class='ocrx_word' id='word_1_6' title='bbox 1360 1639 1450 1690; x_wconf 88' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_7' title='bbox 1495 1639 1666 1689; x_wconf 86' lang='lat'>1770</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1729 3 1829">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1718 3 1829">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1729 3 1829; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 1729 3 1829; x_wconf 68' lang='grc' dir='ltr'>ῐ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 432 2116 1123 2289">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 432 2116 1123 2289">
+     <span class='ocr_line' id='line_1_4' title="bbox 528 2116 1031 2157; baseline 0.004 -4"><span class='ocrx_word' id='word_1_9' title='bbox 528 2116 729 2155; x_wconf 66' lang='grc' dir='ltr'>ΒΟΒΤΟΝ</span> <span class='ocrx_word' id='word_1_10' title='bbox 750 2116 1031 2157; x_wconf 65' lang='grc' dir='ltr'>ῌΝΝΕΗΞΠὟ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 432 2180 1123 2223; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 432 2181 663 2223; x_wconf 55' lang='lat' dir='ltr'>com-Eski</span> <span class='ocrx_word' id='word_1_12' title='bbox 685 2183 746 2222; x_wconf 55' lang='lat' dir='ltr'>Of*</span> <span class='ocrx_word' id='word_1_13' title='bbox 773 2182 977 2223; x_wconf 54' lang='grc' dir='ltr'>ἰ-ΙΞΕΝΑΙ.</span> <span class='ocrx_word' id='word_1_14' title='bbox 995 2180 1123 2223; x_wconf 69' lang='lat' dir='ltr'>ARTS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 676 2247 885 2289; baseline 0.005 -1"><span class='ocrx_word' id='word_1_15' title='bbox 676 2247 885 2289; x_wconf 65' lang='lat' dir='ltr'>LffifiARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
